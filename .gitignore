@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.log
+
+# Backups
+*.bak
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
